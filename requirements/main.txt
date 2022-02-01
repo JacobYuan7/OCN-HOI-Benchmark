@@ -1,0 +1,6 @@
+pip install numpy;
+pip install cython;
+pip install -e cocoapi/pycocotools;
+pip install submitit;
+pip install git+https://github.com/cocodataset/panopticapi.git#egg=panopticapi;
+pip install scipy;
