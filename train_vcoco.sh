@@ -4,11 +4,11 @@ pip install pkgs/pycocotools-2.0.2.tar.gz;
 pip install submitit==1.3.0;
 pip install -r requirements.txt;
 python -m torch.distributed.launch --nproc_per_node=8 --use_env main.py \
-    --pretrained /mnt/data-nas/peizhi/params/detr-r101-pre-vcoco.pth \
-    --output_dir /mnt/data-nas/peizhi/logs/OCN_Reproduce_VCOCO_GloVe_query100_R101_80ep_1 \
+    --pretrained /PATH/TO/params/detr-r101-pre-vcoco.pth \
+    --output_dir /PATH/TO/LOG \
     --hoi \
     --dataset_file vcoco \
-    --hoi_path /mnt/data-nas/peizhi/data/v-coco \
+    --hoi_path /PATH/TO/data/v-coco \
     --num_queries 100 \
     --num_obj_classes 81 \
     --num_verb_classes 29 \
@@ -30,4 +30,3 @@ python -m torch.distributed.launch --nproc_per_node=8 --use_env main.py \
     --semantic_similar \
     --OCN \
     --save_ckp \
-    # --pretrained /mnt/data-nas/peizhi/params/detr-r50-pre-vcoco_DETR.pth \
