@@ -1,4 +1,4 @@
-# Codes for AAAI2022: Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics 
+# [AAAI2022] Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics 
 
 <div align="center">
   <img src=".github/OCN_pipeline.png" width="900px" />
