@@ -4,11 +4,9 @@
   <img src=".github/OCN_pipeline.png" width="900px" />
   <p>Overall pipeline of OCN.</p>
 </div>
-The source codes for AAAI2022 Paper: 
-Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics.  
+ 
 [[arXiv]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
 [[AAAI official paper]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
-
 
 If you find our work or the codebase inspiring and useful to your research, please cite
 ```bibtex
