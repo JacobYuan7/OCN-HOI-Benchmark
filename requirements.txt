@@ -5,7 +5,5 @@
 # submitit
 torch==1.5.1
 torchvision==0.6.1
-# torch==1.6.0
-# torchvision==0.7.0
 git+https://github.com/cocodataset/panopticapi.git#egg=panopticapi
 scipy
