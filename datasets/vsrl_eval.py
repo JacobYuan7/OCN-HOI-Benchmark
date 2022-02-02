@@ -498,18 +498,16 @@ def voc_ap(rec, prec):
 
 
 if __name__ == '__main__':
+  # Example
   # vcocoeval = VCOCOeval('/PATH/TO/vcoco/vcoco_test.json',
   #                       '/PATH/TO/data/instances_vcoco_all_2014.json',
   #                       '/PATH/TO/data/v-coco/data/splits/vcoco_test.ids')
-
   # # Paper VCOCO
   # vcocoeval._do_eval('/PATH/TO/vcoco.pickle',
   #                    ovr_thresh=0.5)
 
-  vcocoeval = VCOCOeval('/mnt/data-nas/peizhi/jacob/data/v-coco/data/vcoco/vcoco_test.json',
-                        '/mnt/data-nas/peizhi/jacob/data/v-coco/data/instances_vcoco_all_2014.json',
-                        '/mnt/data-nas/peizhi/jacob/data/v-coco/data/splits/vcoco_test.ids')
-
-  # Paper VCOCO
-  vcocoeval._do_eval('/mnt/data-nas/peizhi/jacob/data/v-coco/results_pickle/public_OCN_VCOCO_R101_checkpoint0079.pickle',
+  vcocoeval = VCOCOeval('/PATH/TO/data/v-coco/data/vcoco/vcoco_test.json',
+                        '/PATH/TO/data/v-coco/data/instances_vcoco_all_2014.json',
+                        '/PATH/TO/data/v-coco/data/splits/vcoco_test.ids')
+  vcocoeval._do_eval('/PATH/TO/data/v-coco/results_pickle/public_OCN_VCOCO_R101_checkpoint0079.pickle',
                      ovr_thresh=0.5)
