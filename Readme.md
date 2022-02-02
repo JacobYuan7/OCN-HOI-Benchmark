@@ -5,8 +5,8 @@
   <p>Overall pipeline of OCN.</p>
 </div>
  
-[[arXiv]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
-[[AAAI official paper]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
+[[arXiv]](https://arxiv.org/abs/2202.00259)
+[[AAAI official paper]](https://arxiv.org/abs/2202.00259)
 
 If you find our work or the codebase inspiring and useful to your research, please cite
 ```bibtex
