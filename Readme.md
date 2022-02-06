@@ -10,13 +10,11 @@ Paper Link: [[arXiv]](https://arxiv.org/abs/2202.00259)
 
 If you find our work or the codebase inspiring and useful to your research, please cite
 ```bibtex
-@misc{yuan2022detecting,
-      title={Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics}, 
-      author={Hangjie Yuan and Mang Wang and Dong Ni and Liangpeng Xu},
-      year={2022},
-      eprint={2202.00259},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{yuan2022OCN_HOI,
+  title={Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics},
+  author={Yuan, Hangjie and Wang, Mang and Ni, Dong and Xu, Liangpeng},
+  journal={arXiv preprint arXiv:2202.00259},
+  year={2022}
 }
 ```
 ## Dataset preparation
