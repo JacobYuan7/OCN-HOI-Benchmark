@@ -140,7 +140,7 @@ We present the results and links for downloading corresponding parameters and lo
 | OCN | ResNet-101 | 26.24 | 33.27 | 31.65 | [link](https://zjueducn-my.sharepoint.com/:u:/g/personal/hj_yuan_zju_edu_cn/EaDjNk2OZpFCpNRYIzmBZI4BMbO7NglqiWoPqfO9hcKzOg?e=Crsuw7) |
 
 Results and parameters on V-COCO can be found in the table below:
-| Model | Backbone | $AP_{role}^{\#1}$ | $AP_{role}^{\#1}$ | Download |
+| Model | Backbone | $AP_{role}^{1}$ | $AP_{role}^{2}$ | Download |
 | ---------- | :-----------:  | :-----------:  | :-----------: | :-----------: |
 | OCN | ResNet-50 | 64.2 | 66.3 | [link](https://zjueducn-my.sharepoint.com/:u:/g/personal/hj_yuan_zju_edu_cn/EejYy8FsT4tPpsjjOvn2ZDsBckBu2C2g7eA0javN055MAQ?e=vQLTmm) |
 | OCN | ResNet-101 | 65.3 | 67.1 | [link](https://zjueducn-my.sharepoint.com/:u:/g/personal/hj_yuan_zju_edu_cn/EZiXop8K4VJGu_dB9eTMIVABiCM6K4p_r0I3saUdQgtuLg?e=Pl5Yjh) |
