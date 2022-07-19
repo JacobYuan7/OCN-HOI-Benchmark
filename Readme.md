@@ -133,8 +133,11 @@ python datasets/vsrl_eval.py
 ```
 
 ## Results
-Below we present the results and links for downloading corresponding parameters and logs:
-(The checkpoints can produce higher results than what are reported in the paper.)
-We will soon update this table.
+We present the results and links for downloading corresponding parameters and logs below. Results are evaluated in Known Object setting. We evaluate the model from the last epoch of training. (The checkpoints can produce higher results than what are reported in the paper.) Results and parameters on HICO-DET can be found in the table below: 
+| Model | Backbone | Rare | None-Rare | Full | Download |
+| ---------- | :-----------:  | :-----------:  | :-----------: | :-----------: | :-----------: |
+| OCN | ResNet-50 | 25.56 | 32.92 | 31.23 | [link](https://zjueducn-my.sharepoint.com/:u:/g/personal/hj_yuan_zju_edu_cn/EcaO1pep2XtKoG-8U9NFvfkBNpG5n34Tb_ccxeMbOdo6Sg?e=hcbspJ) |
+| OCN | ResNet-101 | 26.24 | 33.27 | 31.65 | [link](https://zjueducn-my.sharepoint.com/:u:/g/personal/hj_yuan_zju_edu_cn/EaDjNk2OZpFCpNRYIzmBZI4BMbO7NglqiWoPqfO9hcKzOg?e=Crsuw7) |
 
+Results and parameters on V-COCO can be found in the table below:
 
