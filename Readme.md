@@ -10,10 +10,10 @@ Paper Link: [[AAAI official paper]](https://ojs.aaai.org/index.php/AAAI/article/
 
 If you find our work or the codebase inspiring and useful to your research, please cite
 ```bibtex
-@article{yuan2022OCN_HOI,
+@inproceedings{Yuan2022DetectingHI,
   title={Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics},
-  author={Yuan, Hangjie and Wang, Mang and Ni, Dong and Xu, Liangpeng},
-  journal={arXiv preprint arXiv:2202.00259},
+  author={Hangjie Yuan and Mang Wang and Dong Ni and Liangpeng Xu},
+  booktitle={AAAI},
   year={2022}
 }
 ```
