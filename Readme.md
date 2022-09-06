@@ -1,12 +1,16 @@
 # [AAAI2022] Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics 
 
 <div align="center">
-  <img src=".github/OCN_pipeline.png" width="900px" />
+  <img src=".github/OCN_pipeline.png" width="600px" />
   <p>Overall pipeline of OCN.</p>
 </div>
  
 Paper Link: [[AAAI official paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20229)
 [[arXiv]](https://arxiv.org/abs/2202.00259)
+
+[![GitHub Stars](https://img.shields.io/github/stars/JacobYuan7/OCN-HOI-Benchmark?style=social)](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
+[![GitHub Forks](https://img.shields.io/github/forks/JacobYuan7/OCN-HOI-Benchmark)](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JacobYuan7/OCN-HOI-Benchmark)
 
 If you find our work or the codebase inspiring and useful to your research, please cite
 ```bibtex
