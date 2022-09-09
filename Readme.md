@@ -12,12 +12,21 @@ Paper Link: [[AAAI official paper]](https://ojs.aaai.org/index.php/AAAI/article/
 [![GitHub Forks](https://img.shields.io/github/forks/JacobYuan7/OCN-HOI-Benchmark)](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JacobYuan7/OCN-HOI-Benchmark)
 
+💥**New**! The follow-up work **RLIP: Relational Language-Image Pre-training** is available online! [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2209.01814) Hope you will enjoy reading it.
+
 If you find our work or the codebase inspiring and useful to your research, please cite
 ```bibtex
 @inproceedings{Yuan2022OCN,
   title={Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics},
   author={Hangjie Yuan and Mang Wang and Dong Ni and Liangpeng Xu},
   booktitle={AAAI},
+  year={2022}
+}
+
+@article{yuan2022RLIP,
+  title={RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection},
+  author={Yuan, Hangjie and Jiang, Jianwen and Albanie, Samuel and Feng, Tao and Huang, Ziyuan and Ni, Dong and Tang, Mingqian},
+  journal={arXiv preprint arXiv:2209.01814},
   year={2022}
 }
 ```
