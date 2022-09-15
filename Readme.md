@@ -12,7 +12,7 @@ Paper Link: [[AAAI official paper]](https://ojs.aaai.org/index.php/AAAI/article/
 [![GitHub Forks](https://img.shields.io/github/forks/JacobYuan7/OCN-HOI-Benchmark)](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JacobYuan7/OCN-HOI-Benchmark)
 
-💥**News**! The follow-up work **RLIP: Relational Language-Image Pre-training** is available online! [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2209.01814) Hope you will enjoy reading it.
+💥**News**! The follow-up work **RLIP: Relational Language-Image Pre-training** is accepted to ***NeurIPS 2022*** and also available online! [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2209.01814) Hope you will enjoy reading it.
 
 If you find our work or the codebase inspiring and useful to your research, please cite
 ```bibtex
