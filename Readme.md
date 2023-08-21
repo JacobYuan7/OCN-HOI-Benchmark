@@ -13,7 +13,7 @@ Paper Link: [[AAAI official paper]](https://ojs.aaai.org/index.php/AAAI/article/
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJacobYuan7%2FOCN-HOI-Benchmark%2F&count_bg=%235FC1D7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JacobYuan7/OCN-HOI-Benchmark)
 
-**News**💥! Another follow-up work **RLIPv2: Fast Scaling of Relational Language-Image Pre-training** is accepted to **ICCV 2023**. [RLIPv2](https://github.com/JacobYuan7/RLIPv2) will soon be released. Stay tuned! 
+**News**💥! The follow-up work [**RLIPv2: Fast Scaling of Relational Language-Image Pre-training**](https://arxiv.org/abs/2308.09351) is accepted to **ICCV 2023**. Its code have been released in [RLIPv2 repo](https://github.com/JacobYuan7/RLIPv2). 
 
 💥**News**! The follow-up work **RLIP: Relational Language-Image Pre-training** is accepted to **NeurIPS 2022** as a **Spotlight** paper (Top 5%) and also available online! [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2209.01814) Hope you will enjoy reading it.
 
